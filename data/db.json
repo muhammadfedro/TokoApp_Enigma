@@ -1,0 +1,72 @@
+[
+ {
+  "Barcode": "d41d8cd98f00b204e9800998ecf8427e",
+  "Barang": "",
+  "Kategori": "",
+  "Harga": 0,
+  "Stok": 0,
+  "Deskripsi": "",
+  "Ukuran": "",
+  "Fungsi": "",
+  "Jumlah": 12,
+  "Id": "01",
+  "Tanggal": "20-12-2014",
+  "Nama": "bakso"
+ },
+ {
+  "Barcode": "ce368eff55fdf73706444d8a4afcf49b",
+  "Barang": "MIE",
+  "Kategori": "MIE",
+  "Harga": 2500,
+  "Stok": 3,
+  "Deskripsi": "MIE",
+  "Ukuran": "90GR",
+  "Fungsi": "DIMAKAN",
+  "Jumlah": 0,
+  "Id": "",
+  "Tanggal": "",
+  "Nama": ""
+ },
+ {
+  "Barcode": "d41d8cd98f00b204e9800998ecf8427e",
+  "Barang": "",
+  "Kategori": "",
+  "Harga": 0,
+  "Stok": 0,
+  "Deskripsi": "",
+  "Ukuran": "",
+  "Fungsi": "",
+  "Jumlah": 12,
+  "Id": "02",
+  "Tanggal": "12-12-2020",
+  "Nama": "KWETIAU"
+ },
+ {
+  "Barcode": "d41d8cd98f00b204e9800998ecf8427e",
+  "Barang": "",
+  "Kategori": "",
+  "Harga": 0,
+  "Stok": 0,
+  "Deskripsi": "",
+  "Ukuran": "",
+  "Fungsi": "",
+  "Jumlah": 12,
+  "Id": "01",
+  "Tanggal": "12-12-2012",
+  "Nama": "mie"
+ },
+ {
+  "Barcode": "c4194dd4157f49524683685d12781d74",
+  "Barang": "pepsodent",
+  "Kategori": "sabun mandi",
+  "Harga": 12000,
+  "Stok": 20,
+  "Deskripsi": "sabun mandi",
+  "Ukuran": "100gr",
+  "Fungsi": "dimakan",
+  "Jumlah": 0,
+  "Id": "",
+  "Tanggal": "",
+  "Nama": ""
+ }
+]
